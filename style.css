@@ -1,0 +1,28 @@
+* {
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    justify-items: center;
+    margin: 20px;
+}
+
+.formularioLogin {
+    margin-top: 5%;
+    max-width: 20%;
+}
+
+.form-label {
+    font-size: x-large;
+    margin-top: 20px;
+    font-weight: bolder;
+    text-align: center;
+    color: black;
+    display: block;
+}
+
+.form-input {
+    max-width: 100%;
+    display: block;
+}
