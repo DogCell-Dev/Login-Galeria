@@ -3,9 +3,21 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+body {
+    background-image: url("https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1920&q=80");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 header {
     justify-items: center;
     margin: 20px;
+}
+
+header h1 {
+    color: rgb(0, 0, 0);
 }
 
 .formularioLogin {
@@ -18,7 +30,7 @@ header {
     margin-top: 20px;
     font-weight: bolder;
     text-align: center;
-    color: black;
+    color: rgb(0, 0, 0);
     display: block;
 }
 
